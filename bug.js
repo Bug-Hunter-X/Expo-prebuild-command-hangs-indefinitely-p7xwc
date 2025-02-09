@@ -1,0 +1,1 @@
+This error occurs when using the `expo prebuild` command, especially when dealing with large projects or complex dependencies. The build process may hang indefinitely without providing any clear error messages.
